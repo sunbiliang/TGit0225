@@ -7,5 +7,7 @@ public class Hello {
 		System.out.println("hello02");
 		System.out.println("p1");
 		System.out.println("p2");
+		System.out.println("hello03");
+		System.out.println("hello04");
 	}
 }
