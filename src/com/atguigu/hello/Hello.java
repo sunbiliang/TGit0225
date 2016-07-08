@@ -12,5 +12,6 @@ public class Hello {
 		System.out.println("hello05");
 		System.out.println("hello07");
 		System.out.println("hello08");
+		System.out.println("hello06");
 	}
 }
